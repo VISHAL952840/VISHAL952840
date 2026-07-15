@@ -59,131 +59,273 @@ Open To:
   - AI/ML Projects
   - Product-Based Development
   - Open Source Collaboration
-TECH STACK
-LANGUAGES
-<p> <img src="https://skillicons.dev/icons?i=java,python,js,html,css" /> </p>
-FRONTEND
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /> </p>
-BACKEND & DATABASES
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
-CLOUD, DEVOPS & TOOLING
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tensorflow,opencv" /> </p>
-AI / ML EXPERTISE
-Domain	Proficiency	Details
-Computer Vision	Intermediate	Exploring image processing and computer vision using OpenCV
-Deep Learning	Beginner to Intermediate	Worked with CNN-based image classification workflows
-Python for AI/ML	Intermediate	Python, NumPy, Pandas and Matplotlib-based workflows
-TensorFlow / Keras	Beginner to Intermediate	Neural network and CNN experimentation
-Streamlit	Intermediate	Building interactive AI/ML application interfaces
-AI Product Development	Growing	Converting AI concepts into practical user-facing projects
-FEATURED PROJECTS
-<details> <summary><b>DERMASENSE — AI-POWERED SKIN ANALYSIS APPLICATION</b></summary>
+
+---
+
+## TECH STACK
+
+### LANGUAGES
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### BACKEND & DATABASES
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### CLOUD, DEVOPS & TOOLING
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tensorflow,opencv" />
+</p>
+
+---
+
+## AI / ML EXPERTISE
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Computer Vision | Intermediate | Exploring image processing and computer vision using OpenCV |
+| Deep Learning | Beginner to Intermediate | Worked with CNN-based image classification workflows |
+| Python for AI/ML | Intermediate | Python, NumPy, Pandas and Matplotlib-based workflows |
+| TensorFlow / Keras | Beginner to Intermediate | Neural network and CNN experimentation |
+| Streamlit | Intermediate | Building interactive AI/ML application interfaces |
+| AI Product Development | Growing | Converting AI concepts into practical user-facing projects |
+
+---
+
+## FEATURED PROJECTS
+
+<details>
+<summary><b>DERMASENSE — AI-POWERED SKIN ANALYSIS APPLICATION</b></summary>
+
 AI-powered skin analysis application built while exploring computer vision and machine learning.
-Attribute	Details
-Stack	Python, TensorFlow, Keras, OpenCV, Streamlit
-Scale	AI/ML-based image analysis application
-Performance	CNN-based image classification workflow
-Security	Local application workflow with controlled image input
-Impact	Applied AI/ML concepts to build a practical user-facing project
-Repository	View Repository
 
-DermaSense is one of my key AI/ML projects. It helped me understand how computer vision, CNNs, and interactive application development can be combined to build a practical software product.
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, TensorFlow, Keras, OpenCV, Streamlit |
+| **Scale** | AI/ML-based image analysis application |
+| **Performance** | CNN-based image classification workflow |
+| **Security** | Local application workflow with controlled image input |
+| **Impact** | Applied AI/ML concepts to build a practical user-facing project |
+| **Repository** | [View Repository](https://github.com/VISHAL952840) |
 
-</details> <details> <summary><b>AMAZON CLONE — FRONTEND E-COMMERCE INTERFACE</b></summary>
-Frontend project developed to strengthen HTML and CSS fundamentals through a real-world e-commerce interface.
-Attribute	Details
-Stack	HTML5, CSS3
-Scale	Static e-commerce homepage interface
-Performance	Lightweight frontend implementation
-Security	Frontend-only project
-Impact	Strengthened layout, styling, and UI development fundamentals
-Repository	View Repository
-
-This project helped me understand page structure, layout systems, styling, and real-world UI recreation while building my frontend foundation.
-
-</details> <details> <summary><b>ROYAL NEST — HOTEL BOOKING PLATFORM</b></summary>
-React-based hotel booking frontend currently being developed as part of my MERN learning journey.
-Attribute	Details
-Stack	React, React Router, JavaScript, CSS
-Scale	Multi-page hotel booking frontend
-Performance	Component-based React architecture
-Security	Frontend application with API-driven data
-Impact	Strengthened React, routing, and API integration skills
-Repository	View GitHub Profile
-
-Royal Nest is helping me understand React components, routing, API integration, reusable layouts, and frontend project architecture.
-
-</details> <details> <summary><b>2048 GAME — PYTHON DESKTOP APPLICATION</b></summary>
-Interactive game project built to improve programming logic and application development fundamentals.
-Attribute	Details
-Stack	Python, Tkinter
-Scale	Interactive desktop application
-Performance	Event-driven game logic
-Security	Local desktop application
-Impact	Improved programming logic and problem-solving
-Repository	View GitHub Profile
-
-The project strengthened my understanding of game state, user interaction, event handling, and logical programming.
-
-</details> <details> <summary><b>BRAJ DARSHAN — TRAVEL WEBSITE</b></summary>
-Travel-focused website project inspired by the cultural and tourism identity of the Braj region.
-Attribute	Details
-Stack	HTML, CSS, JavaScript
-Scale	Travel and tourism website concept
-Performance	Lightweight frontend experience
-Security	Frontend project
-Impact	Combined frontend development with a real-world regional concept
-Repository	View GitHub Profile
-
-Braj Darshan reflects my interest in building practical websites around real-world ideas and user-focused experiences.
+DermaSense is one of my key AI/ML projects. It helped me understand how **computer vision, CNNs, and interactive application development** can be combined to build a practical software product.
 
 </details>
-EXPERIENCE
-FULL STACK DEVELOPMENT TRAINEE
 
-MERN Training Program
-2026 — Present
+<details>
+<summary><b>AMAZON CLONE — FRONTEND E-COMMERCE INTERFACE</b></summary>
+
+Frontend project developed to strengthen HTML and CSS fundamentals through a real-world e-commerce interface.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML5, CSS3 |
+| **Scale** | Static e-commerce homepage interface |
+| **Performance** | Lightweight frontend implementation |
+| **Security** | Frontend-only project |
+| **Impact** | Strengthened layout, styling, and UI development fundamentals |
+| **Repository** | [View Repository](https://github.com/VISHAL952840) |
+
+This project helped me understand **page structure, layout systems, styling, and real-world UI recreation** while building my frontend foundation.
+
+</details>
+
+<details>
+<summary><b>ROYAL NEST — HOTEL BOOKING PLATFORM</b></summary>
+
+React-based hotel booking frontend currently being developed as part of my MERN learning journey.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, React Router, JavaScript, CSS |
+| **Scale** | Multi-page hotel booking frontend |
+| **Performance** | Component-based React architecture |
+| **Security** | Frontend application with API-driven data |
+| **Impact** | Strengthened React, routing, and API integration skills |
+| **Repository** | [View GitHub Profile](https://github.com/VISHAL952840) |
+
+Royal Nest is helping me understand **React components, routing, API integration, reusable layouts, and frontend project architecture**.
+
+</details>
+
+<details>
+<summary><b>2048 GAME — PYTHON DESKTOP APPLICATION</b></summary>
+
+Interactive game project built to improve programming logic and application development fundamentals.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Tkinter |
+| **Scale** | Interactive desktop application |
+| **Performance** | Event-driven game logic |
+| **Security** | Local desktop application |
+| **Impact** | Improved programming logic and problem-solving |
+| **Repository** | [View GitHub Profile](https://github.com/VISHAL952840) |
+
+The project strengthened my understanding of **game state, user interaction, event handling, and logical programming**.
+
+</details>
+
+<details>
+<summary><b>BRAJ DARSHAN — TRAVEL WEBSITE</b></summary>
+
+Travel-focused website project inspired by the cultural and tourism identity of the Braj region.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | Travel and tourism website concept |
+| **Performance** | Lightweight frontend experience |
+| **Security** | Frontend project |
+| **Impact** | Combined frontend development with a real-world regional concept |
+| **Repository** | [View GitHub Profile](https://github.com/VISHAL952840) |
+
+Braj Darshan reflects my interest in building **practical websites around real-world ideas and user-focused experiences**.
+
+</details>
+
+---
+
+## EXPERIENCE
+
+### FULL STACK DEVELOPMENT TRAINEE
+
+**MERN Training Program**  
+**2026 — Present**
 
 Currently strengthening my full stack development fundamentals through practical, project-based learning.
 
-Building React-based frontend applications
-Working with React Router and component-based architecture
-Integrating REST APIs into frontend projects
-Developing product and hotel booking interfaces
-Practicing JavaScript fundamentals
-Exploring the MERN development ecosystem
-Learning through real-world project implementation
+- Building React-based frontend applications
+- Working with React Router and component-based architecture
+- Integrating REST APIs into frontend projects
+- Developing product and hotel booking interfaces
+- Practicing JavaScript fundamentals
+- Exploring the MERN development ecosystem
+- Learning through real-world project implementation
 
-React JavaScript HTML CSS REST APIs Git
+`React` `JavaScript` `HTML` `CSS` `REST APIs` `Git`
 
-ACHIEVEMENTS
+---
+
+## ACHIEVEMENTS
+
 <div align="center">
-Recognition	Details
-Hackathon Participant	Participated in Technospark and Devathon hackathon events
-AI Project Builder	Built DermaSense using Python, Streamlit and AI/ML concepts
-Frontend Project Builder	Built multiple frontend projects including Amazon Clone and travel website projects
-Consistent Learner	Actively developing Java, DSA, AI/ML and Full Stack Development skills
+
+| Recognition | Details |
+|---|---|
+| **Hackathon Participant** | Participated in Technospark and Devathon hackathon events |
+| **AI Project Builder** | Built DermaSense using Python, Streamlit and AI/ML concepts |
+| **Frontend Project Builder** | Built multiple frontend projects including Amazon Clone and travel website projects |
+| **Consistent Learner** | Actively developing Java, DSA, AI/ML and Full Stack Development skills |
+
 </div>
-CERTIFICATIONS
-IBM
+
+---
+
+## CERTIFICATIONS
+
+### IBM
+
 <img src="https://img.shields.io/badge/IBM-Data%20Science-4C1D95?style=for-the-badge&logo=ibm&logoColor=white"/>
-SIMPLILEARN
+
+### SIMPLILEARN
+
 <img src="https://img.shields.io/badge/Simplilearn-Artificial%20Intelligence-312E81?style=for-the-badge&logo=simplilearn&logoColor=white"/>
-PYTHON
+
+### PYTHON
+
 <img src="https://img.shields.io/badge/Python-101-1E1B4B?style=for-the-badge&logo=python&logoColor=white"/>
-FEA
+
+### FEA
+
 <img src="https://img.shields.io/badge/FEA-Certified-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-CODING PROFILES
-<div align="center"> <a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.geeksforgeeks.org/"> <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> <a href="https://www.hackerrank.com/"> <img src="https://img.shields.io/badge/HackerRank-Coding-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> <a href="https://www.codechef.com/"> <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </div>
-GITHUB ANALYTICS
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHAL952840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=E5E7EB"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL952840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB"/> <br/> <img src="https://streak-stats.demolab.com?user=VISHAL952840&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/> </div>
-GITHUB TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=VISHAL952840&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/> </div>
-CONTRIBUTION ACTIVITY
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHAL952840&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&hide_border=true"/> </div>
-CONTRIBUTION SNAKE
-<div align="center"> <img src="https://raw.githubusercontent.com/VISHAL952840/VISHAL952840/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </div>
-CURRENT FOCUS
+
+---
+
+## CODING PROFILES
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coding-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHAL952840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=E5E7EB"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL952840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VISHAL952840&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+
+</div>
+
+---
+
+## GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VISHAL952840&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHAL952840&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VISHAL952840/VISHAL952840/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
 Learning:
   - Java
   - Data Structures & Algorithms
@@ -210,5 +352,5 @@ Open To:
   - Full Stack Development
   - AI/ML Projects
   - Open Source Collaboration
-CONNECT
-<div align="center"> <a href="mailto:vishalchaudhary962840@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishal-csdeveloper"> <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840/VISHAL952840.github.io"> <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div>
+
+<div align="center"> <a href="mailto:vishalchaudhary962840@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishal-csdeveloper"> <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div>

@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Engineering-3rd%20Year-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Science%20Engineering-4th%20Year-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/BSACET-AKTU-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/6th%20Semester-Engineering-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/7th%20Semester-Engineering-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mathura-Uttar%20Pradesh-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:vishalchaudhary962840@gmail.com">
+<a href="mailto:vishalchaudhary952840@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -159,41 +159,9 @@ Royal Nest is helping me understand **React components, routing, API integration
 
 </details>
 
-<details>
-<summary><b>2048 GAME — PYTHON DESKTOP APPLICATION</b></summary>
 
-Interactive game project built to improve programming logic and application development fundamentals.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Tkinter |
-| **Scale** | Interactive desktop application |
-| **Performance** | Event-driven game logic |
-| **Security** | Local desktop application |
-| **Impact** | Improved programming logic and problem-solving |
-| **Repository** | [View GitHub Profile](https://github.com/VISHAL952840) |
 
-The project strengthened my understanding of **game state, user interaction, event handling, and logical programming**.
-
-</details>
-
-<details>
-<summary><b>BRAJ DARSHAN — TRAVEL WEBSITE</b></summary>
-
-Travel-focused website project inspired by the cultural and tourism identity of the Braj region.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Travel and tourism website concept |
-| **Performance** | Lightweight frontend experience |
-| **Security** | Frontend project |
-| **Impact** | Combined frontend development with a real-world regional concept |
-| **Repository** | [View GitHub Profile](https://github.com/VISHAL952840) |
-
-Braj Darshan reflects my interest in building **practical websites around real-world ideas and user-focused experiences**.
-
-</details>
 
 ---
 
@@ -202,7 +170,7 @@ Braj Darshan reflects my interest in building **practical websites around real-w
 ### FULL STACK DEVELOPMENT TRAINEE
 
 **MERN Training Program**  
-**2026 — Present**
+**15/06/2026 — 15/07/2026**
 
 Currently strengthening my full stack development fundamentals through practical, project-based learning.
 
@@ -224,7 +192,7 @@ Currently strengthening my full stack development fundamentals through practical
 
 | Recognition | Details |
 |---|---|
-| **Hackathon Participant** | Participated in Technospark and Devathon hackathon events |
+| **Hackathon Participant** | Participated in Technospark and Deviathon hackathon events and CU hackathon|
 | **AI Project Builder** | Built DermaSense using Python, Streamlit and AI/ML concepts |
 | **Frontend Project Builder** | Built multiple frontend projects including Amazon Clone and travel website projects |
 | **Consistent Learner** | Actively developing Java, DSA, AI/ML and Full Stack Development skills |
@@ -350,5 +318,5 @@ Open To:
   - Full Stack Development
   - AI/ML Projects
   - Open Source Collaboration
-
-<div align="center"> <a href="mailto:vishalchaudhary962840@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishal-csdeveloper"> <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div>
+```
+<div align="center"> <a href="mailto:vishalchaudhary952840@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishal-csdeveloper"> <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/VISHAL952840"> <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div>

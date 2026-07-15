@@ -245,19 +245,22 @@ Currently strengthening my full stack development fundamentals through practical
 
 ---
 
+
+
 ## GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHAL952840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=E5E7EB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHAL952840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=E5E7EB" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL952840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL952840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=VISHAL952840&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+<img src="https://streak-stats.demolab.com?user=VISHAL952840&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
 
 </div>
+
 
 ---
 
@@ -265,10 +268,9 @@ Currently strengthening my full stack development fundamentals through practical
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VISHAL952840&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VISHAL952840&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
-
 ---
 
 ## CONTRIBUTION ACTIVITY

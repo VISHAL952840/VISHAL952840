@@ -315,11 +315,9 @@ Currently strengthening my full stack development fundamentals through practical
 
 ## CONTRIBUTION SNAKE
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VISHAL952840/VISHAL952840/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHAL952840/VISHAL952840/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 

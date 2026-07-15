@@ -59,7 +59,7 @@ Open To:
   - AI/ML Projects
   - Product-Based Development
   - Open Source Collaboration
-
+```
 ---
 
 ## TECH STACK
